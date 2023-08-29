@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khai Troy
+- 👋 Hi, I’m @Khai Do
 - 👀 I’m interested in software development and automation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
